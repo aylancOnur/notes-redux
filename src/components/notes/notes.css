@@ -1,0 +1,22 @@
+.notes-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin: 10px auto;
+  }
+  
+  .note {
+    overflow: hidden;
+    text-align: left;
+    background-color: var(--note-yellow);
+    padding: 10px;
+    border-radius: .5rem;
+  }
+  
+  .note-body {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1rem 0;
+  }
+  
