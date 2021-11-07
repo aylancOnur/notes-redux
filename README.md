@@ -1,1 +1,1 @@
-![image info](https://github.com/aylancOnur/notes-redux/tree/master/src/images/notes-app.JPG "App Image")
+![](https://github.com/aylancOnur/notes-redux/tree/master/src/images/notes-app.JPG "App Image")
